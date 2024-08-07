@@ -1,0 +1,1 @@
+The party's carriage driver during [[1 - Introductions|Session 1]] & [[2 - First Combat|Session 2]] (unless he dies). Presumed a human male. Bewildered by [[Ash's Character|the color blue]].

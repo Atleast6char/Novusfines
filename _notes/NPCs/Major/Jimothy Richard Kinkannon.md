@@ -1,0 +1,5 @@
+The previous [[Sectors|sector]], operating from [[Milbrook]]. He very suddenly went missing one day, and as such, has fallen behind all his official duties. He was eventually replaced by [[Lucius Thormund]], who also has the added responsibility of finding out what happened to Jimothy.
+
+While Lucius went digging through all of Jimothy's stuff, and found several articles that suggested the previous sector was very taken with something be he vanished, and it was a highly odd something, not normally a thing a sector would have any business meddling with personally. This was as likely a lead as any, and upon studying it further, Lucius was able to find Jimothy's probable [[Ash's Character|last contact]] before his truancy. And strangely, this individual was not a citizen of The Empire.
+
+Presumed a human male. Also presumed dead by Ash's Character, guessing he was taken by some kind of ambiguous, supernatural force/entity. If Lucius's outspoken image of the typical sector is to be believed, Jimothy may have been a portly man.

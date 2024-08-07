@@ -1,0 +1,1 @@
+A missive given to [[Carlisle]] from [[Samantha Vain]], to be delivered to [[Lucius Thormund|Milbrook's new sector]]. It has been successfully handed over to the intended recipient, but its contents remain unknown.

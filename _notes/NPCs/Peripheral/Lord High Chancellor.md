@@ -1,0 +1,3 @@
+_Commonly referred to as "The Head of the Faith."_
+
+One of the most influential people in the entirety of [[The Haldriatic Empire|The Empire]], and the one who directs those who follow [[Devorticism - The Faith|The Faith]]. They are a bit of an enigmatic individual. Although they are a public figure who is widely recognized in the motherland, possessing a voice which many would have christen their ears, it is also a truth that very few voices of the many would find their ears.
