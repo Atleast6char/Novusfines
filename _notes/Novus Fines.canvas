@@ -1,0 +1,538 @@
+{
+  "nodes": [
+    {
+      "id": "ac4a25d67fb376c1",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 580,
+      "y": -580,
+      "width": 1560,
+      "height": 1480,
+      "color": "4",
+      "label": "Milbrook"
+    },
+    {
+      "id": "dd9222267b6b137f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1620,
+      "y": -1020,
+      "width": 1560,
+      "height": 880,
+      "color": "1",
+      "label": "The Faith"
+    },
+    {
+      "id": "41250d70f5009233",
+      "type": "file",
+      "file": "Settings/The Haldriatic Empire.md",
+      "styleAttributes": {},
+      "x": -2160,
+      "y": 0,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "28c131ff29905589",
+      "type": "file",
+      "file": "Settings/The New World.md",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": 0,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "242a885c7973caeb",
+      "type": "file",
+      "file": "Settings/Devorticism - The Faith.md",
+      "styleAttributes": {},
+      "x": -1600,
+      "y": -560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "452e626b7938218b",
+      "type": "file",
+      "file": "Player Characters/Carlisle.md",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": -1000,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "0593b5da92f567b6",
+      "type": "file",
+      "file": "NPCs/Minor/Duncan Cloth.md",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -1000,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "53f56f4467344f78",
+      "type": "file",
+      "file": "NPCs/Peripheral/Colonel Janus Bet Vhalnich.md",
+      "styleAttributes": {},
+      "x": -1600,
+      "y": 640,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "19eb0300d023e388",
+      "type": "file",
+      "file": "NPCs/Minor/The Archbishop.md",
+      "styleAttributes": {},
+      "x": -1600,
+      "y": -1000,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "8b338c90e2965d99",
+      "type": "file",
+      "file": "Places/Northern Stronghold.md",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": 1120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cea86525839699a4",
+      "type": "file",
+      "file": "Settings/Medica & Research Mandatum.md",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "05673b2275923d02",
+      "type": "file",
+      "file": "NPCs/Peripheral/Samantha Vain.md",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 1760,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "862edd2d5544c924",
+      "type": "file",
+      "file": "Settings/Sectors.md",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 0,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b667be7a12328fc8",
+      "type": "file",
+      "file": "Player Characters/Sheijhey.md",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 1200,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "d3b6ec74a7532cf5",
+      "type": "file",
+      "file": "Places/Milbrook.md",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e7d94828d5317376",
+      "type": "file",
+      "file": "NPCs/Peripheral/Bruce Stallion.md",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": -480,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "6a2b6f420543c91f",
+      "type": "file",
+      "file": "NPCs/Peripheral/Henry Stable.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": -480,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "9f608e62e70bdac9",
+      "type": "file",
+      "file": "NPCs/Major/Jimothy Richard Kinkannon.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 80,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "187fe09cda449aab",
+      "type": "file",
+      "file": "Player Characters/Lucius Thormund.md",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 640,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "2e2e7ed2e05f5b81",
+      "type": "file",
+      "file": "Player Characters/Ash's Character.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 1200,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "adcc8aa76355ef6c",
+      "type": "file",
+      "file": "Settings/The Letter.md",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 1680,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "4ac7f15f7d417daf",
+      "fromNode": "41250d70f5009233",
+      "fromSide": "right",
+      "toNode": "28c131ff29905589",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "8f99788f18fb737e",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "53f56f4467344f78",
+      "fromSide": "right",
+      "toNode": "28c131ff29905589",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "cb095a2d2181270b",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "d3b6ec74a7532cf5",
+      "fromSide": "bottom",
+      "toNode": "9f608e62e70bdac9",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "0169426717d30774",
+      "styleAttributes": {},
+      "fromNode": "e7d94828d5317376",
+      "fromSide": "right",
+      "toNode": "6a2b6f420543c91f",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "a9eb05c4ae392695",
+      "fromNode": "452e626b7938218b",
+      "fromSide": "right",
+      "toNode": "0593b5da92f567b6",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "de74633e5b21265a",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "242a885c7973caeb",
+      "fromSide": "right",
+      "toNode": "452e626b7938218b",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "7820b8626e4e8f19",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "8b338c90e2965d99",
+      "fromSide": "right",
+      "toNode": "b667be7a12328fc8",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "6cc219a4e204ab95",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "187fe09cda449aab",
+      "fromSide": "top",
+      "toNode": "d3b6ec74a7532cf5",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "d2e22ada1bd7e47a",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "187fe09cda449aab",
+      "fromSide": "right",
+      "toNode": "9f608e62e70bdac9",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "c81febee56c42497",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "8b338c90e2965d99",
+      "fromSide": "bottom",
+      "toNode": "05673b2275923d02",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "10761c5b7997cf1f",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "05673b2275923d02",
+      "fromSide": "right",
+      "toNode": "b667be7a12328fc8",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "96a99a048b2dbd63",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "b667be7a12328fc8",
+      "fromSide": "right",
+      "toNode": "187fe09cda449aab",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "337155557cd95619",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "187fe09cda449aab",
+      "fromSide": "right",
+      "toNode": "2e2e7ed2e05f5b81",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "75ba9196be0f9dcc",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "9f608e62e70bdac9",
+      "fromSide": "bottom",
+      "toNode": "2e2e7ed2e05f5b81",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "c13f412b61be9595",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "41250d70f5009233",
+      "fromSide": "bottom",
+      "toNode": "53f56f4467344f78",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "68cc3f51873154b5",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "b667be7a12328fc8",
+      "fromSide": "top",
+      "toNode": "cea86525839699a4",
+      "toSide": "right",
+      "toEnd": "none"
+    },
+    {
+      "id": "db6e2a164334825a",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "28c131ff29905589",
+      "fromSide": "right",
+      "toNode": "cea86525839699a4",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "2ac59245a54dda39",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "28c131ff29905589",
+      "fromSide": "bottom",
+      "toNode": "8b338c90e2965d99",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "9d8b7f044e278a7a",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "e7d94828d5317376",
+      "fromSide": "left",
+      "toNode": "d3b6ec74a7532cf5",
+      "toSide": "right",
+      "toEnd": "none"
+    },
+    {
+      "id": "b36560440c97b3eb",
+      "styleAttributes": {},
+      "fromNode": "28c131ff29905589",
+      "fromSide": "right",
+      "toNode": "862edd2d5544c924",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "5134fcb4738f51dc",
+      "styleAttributes": {},
+      "fromNode": "862edd2d5544c924",
+      "fromSide": "right",
+      "toNode": "9f608e62e70bdac9",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "cb9a3705702554a0",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "862edd2d5544c924",
+      "fromSide": "bottom",
+      "toNode": "187fe09cda449aab",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "d2897708d0988eca",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "452e626b7938218b",
+      "fromSide": "bottom",
+      "toNode": "187fe09cda449aab",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "be7cb64b4c7d9aeb",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "187fe09cda449aab",
+      "fromSide": "top",
+      "toNode": "e7d94828d5317376",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "6d277b5273be2565",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "0593b5da92f567b6",
+      "fromSide": "bottom",
+      "toNode": "242a885c7973caeb",
+      "toSide": "right",
+      "toEnd": "none"
+    },
+    {
+      "id": "7ce9219cf021fa40",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "41250d70f5009233",
+      "fromSide": "top",
+      "toNode": "dd9222267b6b137f",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "38a957c7df5f1663",
+      "styleAttributes": {},
+      "fromNode": "dd9222267b6b137f",
+      "fromSide": "bottom",
+      "toNode": "28c131ff29905589",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "fe32a27d46fa4a31",
+      "styleAttributes": {},
+      "fromNode": "242a885c7973caeb",
+      "fromSide": "top",
+      "toNode": "19eb0300d023e388",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "ddec31185f7823cb",
+      "styleAttributes": {},
+      "fromNode": "19eb0300d023e388",
+      "fromSide": "right",
+      "toNode": "452e626b7938218b",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "926339821c7c3af1",
+      "styleAttributes": {},
+      "fromNode": "187fe09cda449aab",
+      "fromSide": "bottom",
+      "toNode": "adcc8aa76355ef6c",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "af13903493a2f47b",
+      "styleAttributes": {},
+      "fromNode": "05673b2275923d02",
+      "fromSide": "right",
+      "toNode": "adcc8aa76355ef6c",
+      "toSide": "left",
+      "toEnd": "none"
+    }
+  ],
+  "metadata": {}
+}
